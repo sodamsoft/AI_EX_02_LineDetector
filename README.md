@@ -21,5 +21,5 @@
   6Line Fitting
 
 # 결과 
-  demo.mp4
+  demo.gif
   
